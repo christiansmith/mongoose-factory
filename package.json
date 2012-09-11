@@ -1,0 +1,16 @@
+{
+  "author": "Christian Smith <smith@anvil.io> (http://anvil.io)",
+  "name": "mongoose-factory",
+  "description": "Mongoose factory",
+  "version": "0.0.0",
+  "main": "index.coffee",
+  "dependencies": {
+    "async": "latest",
+    "underscore": "latest"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
